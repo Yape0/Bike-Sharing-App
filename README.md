@@ -1,4 +1,4 @@
-# Bike-Sharing-App ✨
+# Bike-Sharing-App 
 
 ## Setup environment
 ```
